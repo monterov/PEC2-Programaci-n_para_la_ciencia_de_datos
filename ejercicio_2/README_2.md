@@ -29,4 +29,7 @@ enlace información: https://stackoverflow.com/questions/5552555/unicodedecodeer
 
 ![Cambio de codificación por latin-1](pantallazo_ejercicio_2-b_pec_2.png)
 
+Ejecuto dtypes para comprobar el formato de las columnas, veo que el formato de fecha es objeto, por lo que transformo el formato a datatime
+
+!compruebo formato columnas](pantallazo_ejercicio_2-c_pec_2.png)
 
