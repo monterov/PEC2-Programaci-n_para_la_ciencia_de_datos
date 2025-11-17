@@ -4,8 +4,8 @@ def my_gcd(a, b, verbose=False):
     utilizando el algoritmo de Euclides.
 
     Args:
-        a (int): Primer número entero positivo.
-        b (int): Segundo número entero positivo.
+        a: Primer número entero positivo.
+        b: Segundo número entero positivo.
         verbose: Si es True, muestra los pasos del algoritmo.
 
     Returns:
@@ -20,13 +20,14 @@ def my_gcd(a, b, verbose=False):
 
         if resto == 0: # Si el resto es 0, tendremos el máximo común divisor.
             return b
-        else: # Y sí no es 0, repetimos el proceso usando dl valor de b como nuevo a y el valor del resto como nuevo b.
+        else: # Y sí no es 0, se repite el proceso usando el valor de b como nuevo a y el valor del resto como nuevo b.
             a = b
             b = resto
 import math
 
 print("my_cgd:", my_gcd(24, 12))
 print("math.gcd: ", math.gcd(24, 12))
+
 
 
 
