@@ -12,7 +12,7 @@ Una vez implementada la función, compara el resultado con la función incorpora
 
 Antes de empezar a programar, he consultado información sobre el algoritmo de Euclides para refrescar la idea:
 
-➡️ [Algoritmo de Euclides — Khan Academy](https://es.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
+[Algoritmo de Euclides — Khan Academy](https://es.khanacademy.org/computing/computer-science/cryptography/modarithmetic/a/the-euclidean-algorithm)
 
 Una vez tenía claro el procedimiento, empecé a implementar la función.
 
