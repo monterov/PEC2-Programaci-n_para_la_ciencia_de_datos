@@ -28,3 +28,4 @@ enlace información: https://stackoverflow.com/questions/5552555/unicodedecodeer
 ### Solución: 
 
 ![Cambio de codificación por latin-1](pantallazo_ejercicio_2-b_pec_2.png)
+
