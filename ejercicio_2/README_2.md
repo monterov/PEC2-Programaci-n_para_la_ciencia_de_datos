@@ -33,4 +33,7 @@ Ejecuto dtypes para comprobar el formato de las columnas, veo que el formato de 
 
 ![Compruebo formatos](pantallazo_ejercicio_2-c_pec_2.png)
 
+![Verifico el cambio de formato](pantallazo_ejercicio_2-d_pec_2.png)
+
+
 
