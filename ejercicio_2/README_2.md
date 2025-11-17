@@ -31,5 +31,6 @@ enlace información: https://stackoverflow.com/questions/5552555/unicodedecodeer
 
 Ejecuto dtypes para comprobar el formato de las columnas, veo que el formato de fecha es objeto, por lo que transformo el formato a datatime
 
-!compruebo formato columnas](pantallazo_ejercicio_2-c_pec_2.png)
+![Compruebo formatos](pantallazo_ejercicio_2-c_pec_2.png)
+
 
