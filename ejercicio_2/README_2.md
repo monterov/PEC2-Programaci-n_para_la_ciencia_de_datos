@@ -19,7 +19,7 @@ Recuerda mostrar los resultados por pantalla en cada subapartado.
 
 Al importar el archivo csv me da este error:
 
-enlace imagen
+![Error mostrado durante la ejecución](pantallazo_ejercicio_2-a_pec_2.png)
 
 busco información en:
 
@@ -27,4 +27,4 @@ enlace información: https://stackoverflow.com/questions/5552555/unicodedecodeer
 
 ### Solución: 
 
-cambiar la codificación por latin-1: enlace imagen 2
+![Cambio de codificación por latin-1](pantallazo_ejercicio_2-b_pec_2.png)
