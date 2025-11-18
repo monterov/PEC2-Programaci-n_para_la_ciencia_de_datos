@@ -43,6 +43,8 @@ Como ya está en formato datatime la columna Date, solo hay que cambiar el forma
 
 ![comprobación nueva columna](pantallazo_ejercicio_2-e_pec_2.png)
 
+### 2.3 
+
 
 
 
