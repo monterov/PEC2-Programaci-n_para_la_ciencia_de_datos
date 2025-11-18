@@ -15,7 +15,9 @@ El formato de salida debe ser como el del ejemplo:
 
 Recuerda mostrar los resultados por pantalla en cada subapartado.
 
-### Primer error
+### 2.1 
+
+## Primer error
 
 Al importar el archivo csv me da este error:
 
@@ -25,7 +27,7 @@ busco información en:
 
 enlace información: https://stackoverflow.com/questions/5552555/unicodedecodeerror-invalid-continuation-byte
 
-### Solución: 
+## Solución: 
 
 ![Cambio de codificación por latin-1](pantallazo_ejercicio_2-b_pec_2.png)
 
@@ -34,6 +36,17 @@ Ejecuto dtypes para comprobar el formato de las columnas, veo que el formato de 
 ![Compruebo formatos](pantallazo_ejercicio_2-c_pec_2.png)
 
 ![Verifico el cambio de formato](pantallazo_ejercicio_2-d_pec_2.png)
+
+### 2.2 
+
+Como ya está en formato datatime la columna Date, solo hay que cambiar el formato. Creo la columna y le doy formato usando el comando dt.strftime.
+
+El problema es que me sale un error en el formato, metiendo un símbolo en el primer dígito del año.
+
+imagen 
+
+
+
 
 
 
