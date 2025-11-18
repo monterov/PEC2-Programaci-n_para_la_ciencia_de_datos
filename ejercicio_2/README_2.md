@@ -41,9 +41,7 @@ Ejecuto dtypes para comprobar el formato de las columnas, veo que el formato de 
 
 Como ya está en formato datatime la columna Date, solo hay que cambiar el formato. Creo la columna y le doy formato usando el comando dt.strftime.
 
-El problema es que me sale un error en el formato, metiendo un símbolo en el primer dígito del año.
-
-imagen 
+![comprobación nueva columna](pantallazo_ejercicio_2-e_pec_2.png)
 
 
 
