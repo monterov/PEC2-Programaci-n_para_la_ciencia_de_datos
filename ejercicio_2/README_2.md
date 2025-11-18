@@ -45,7 +45,11 @@ Como ya está en formato datatime la columna Date, solo hay que cambiar el forma
 
 ### 2.3 
 
+## Primer error:
 
+Creo la función y el resultado no es el esperado, ya que los productos se repiten las veces que se han vendido, en vez de salir el número total de ventas.
+
+![error en la salida](pantallazo_ejercicio_2-g_pec_2.png)
 
 
 
