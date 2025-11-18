@@ -51,6 +51,11 @@ Creo la función y el resultado no es el esperado, ya que los productos se repit
 
 ![error en la salida](pantallazo_ejercicio_2-g_pec_2.png)
 
+## Solución
+
+[Consulta sobre obtener lista única a partir de una columna (StackOverflow)](https://es.stackoverflow.com/questions/590701/obtener-una-lista-%C3%BAnica-de-palabras-extra%C3%ADdas-de-una-columna)
+
+No había puesto el método unique () para que salieran los valores únicos de la columna, una vez añado el comando la salida es la esperada.
 
 
 
