@@ -1,4 +1,4 @@
-# Ejercicio 2
+## Ejercicio 2
 
 Una tienda On-Line de productos de oficina nos ha pedido procesar la información que tienen almacenada en un archivo .csv (`botiga_en_linia.csv`).  
 El archivo se encuentra en la carpeta Data.
@@ -17,7 +17,7 @@ Recuerda mostrar los resultados por pantalla en cada subapartado.
 
 ### 2.1 
 
-## Primer error
+#### Primer error
 
 Al importar el archivo csv me da este error:
 
@@ -27,7 +27,7 @@ busco información en:
 
 enlace información: https://stackoverflow.com/questions/5552555/unicodedecodeerror-invalid-continuation-byte
 
-## Solución: 
+#### Solución: 
 
 ![Cambio de codificación por latin-1](pantallazo_ejercicio_2-b_pec_2.png)
 
@@ -37,25 +37,33 @@ Ejecuto dtypes para comprobar el formato de las columnas, veo que el formato de 
 
 ![Verifico el cambio de formato](pantallazo_ejercicio_2-d_pec_2.png)
 
-### 2.2 
+#### 2.2 
 
 Como ya está en formato datatime la columna Date, solo hay que cambiar el formato. Creo la columna y le doy formato usando el comando dt.strftime.
 
 ![comprobación nueva columna](pantallazo_ejercicio_2-e_pec_2.png)
 
-### 2.3 
+#### 2.3 
 
-## Primer error:
+#### Primer error:
 
 Creo la función y el resultado no es el esperado, ya que los productos se repiten las veces que se han vendido, en vez de salir el número total de ventas.
 
 ![error en la salida](pantallazo_ejercicio_2-g_pec_2.png)
 
-## Solución
+#### Solución
 
 [Consulta sobre obtener lista única a partir de una columna (StackOverflow)](https://es.stackoverflow.com/questions/590701/obtener-una-lista-%C3%BAnica-de-palabras-extra%C3%ADdas-de-una-columna)
 
 No había puesto el método unique () para que salieran los valores únicos de la columna, una vez añado el comando la salida es la esperada.
 
+### 2.4
 
+En el ejercicio pide que la salida, la fecha salga en formato dd/mm/yyyy. Así que tomaremos la columna creada en el ejercicio 2.2 que ya tiene ese formato.
+
+#### Primer error:
+
+Me aparece error de formato, al parecer la columna "Total" no está en formato numérico y, al usar la función .sum () me hace un concatenado de de números. 
+
+![error formato columna "Total"](pantallazo_ejercicio_2-h_pec_2.png)
 
