@@ -4,8 +4,8 @@ A continuación, se quiere crear una función que devuelva un nuevo diccionario 
 Para cada producto encontrado, el valor del diccionario será el precio unitario.
 
 #### Primer error
+![Error mostrado durante la ejecución](pantallazo_ejercicio_4-a_pec_2.png)
 
-
-### Solución
+#### Solución
 
 
