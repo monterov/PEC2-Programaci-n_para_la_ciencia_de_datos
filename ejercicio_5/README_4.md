@@ -13,19 +13,21 @@ Recuerda también mostrar por pantalla el resultado obtenido por esta función.
 
 #### Primer error
 
-Primer susto, me aparece un error que no encuentra
+Primer susto, me aparece un error que no encuentra los libros en la carpeta donde se suponían debían estar.
 
 ![Error en la salida](pantallazo_ejercicio_5-a_pec_2.png)
 
+Bueno, es que los que buscaba no son los que tengo en la carpeta, así que me voy a foro a ver si a alguien le ha pasado esto.
 
-![solución aplicada](pantallazo_ejercicio_5-b_pec_2.png)
+![Archivos en la carpeta Drive](pantallazo_ejercicio_5-b_pec_2.png)
 
+Pues sí, era una errata del enunciado:
 
-![solución aplicada](pantallazo_ejercicio_5-c_pec_2.png)
+![Errata enunciado](pantallazo_ejercicio_5-c_pec_2.png)
 
+Pruebo la salida con los nombres correctos:
 
-
-![solución aplicada](pantallazo_ejercicio_5-d_pec_2.png)
+![Salida con la solución aplicada](pantallazo_ejercicio_5-d_pec_2.png)
 
 
 
