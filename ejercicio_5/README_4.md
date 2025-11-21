@@ -11,9 +11,11 @@ Recuerda también mostrar por pantalla el resultado obtenido por esta función.
 
 ### Ejercicio 5.1
 
+#### Primer error
 
+Primer susto, me aparece un error que no encuentra
 
-![solución aplicada](pantallazo_ejercicio_5-a_pec_2.png)
+![Error en la salida](pantallazo_ejercicio_5-a_pec_2.png)
 
 
 ![solución aplicada](pantallazo_ejercicio_5-b_pec_2.png)
