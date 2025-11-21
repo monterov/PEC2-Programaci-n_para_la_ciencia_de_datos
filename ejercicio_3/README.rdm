@@ -1,1 +1,22 @@
+### 3. # Ejercicio 3
+
+Nos piden también crear una función que recorra todo el archivo `botiga_en_linia.csv`.
+
+La función, llamada `create_dictionary`, recibirá como *entrada*:
+
+- La ruta que contiene el archivo de datos en formato *.csv*.  
+- El código de un cliente (`CustomerId`).
+
+La *salida* será un diccionario donde:
+
+- Cada clave debe contener el país.  
+- El valor correspondiente a cada clave será una lista de tuplas.  
+  La lista debe contener todos los productos vendidos a ese cliente y país (total de productos).
+
+**Nota importante:**  
+Utiliza los principios de **programación funcional** que hemos visto en teoría para resolver este ejercicio.
+
+#### Primer Error:
+
+
 
