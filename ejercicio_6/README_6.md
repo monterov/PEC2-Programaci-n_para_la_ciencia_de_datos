@@ -45,14 +45,17 @@ No sabía bien como separar las frases que no llevan un punto al final o un sign
 
 https://es.stackoverflow.com/questions/227452/corregir-espacios-y-mayusculas
 
+Compilo el patrón con la opción re.IGNORECASE para ignorar mayúsculas y minúsculas:
 
-Uso básico de open() en Python
-https://es.stackoverflow.com/questions/383169/m%C3%A9todo-open-en-python
+patron_compilado = re.compile(pattern, re.IGNORECASE)
 
-Documentación oficial del módulo re (expresiones regulares)
-https://docs.python.org/es/3/library/re.html
+En las indicaciones del ejercicio nos insta a aplicar la programación funcional, así que uso filter junto con una función lambda para quedarme solamente con las frases que contienen el patrón
 
-Manejo de espacios y sustituciones en cadenas de texto (uso de replace)
-https://es.stackoverflow.com/questions/227452/corregir-espacios-y-mayusculas
+frases_filtradas = list(
+    filter(lambda s: patron_compilado.search(s) is not None, lista_frases)
+)
+#### Como no encontré la celda con las comprobaciones, pude ver en foro que ya habían preguntado por este tema, así que copié las indicaciones del profesor.
+
+
 
 
