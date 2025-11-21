@@ -2,7 +2,7 @@
 
 Nos piden también crear una función que recorra todo el archivo `botiga_en_linia.csv`.
 
-La función, llamada `create_dictionary`, recibirá como *entrada*:
+La función, llamada `create_dictionary`, recibirá como *entrada*: 
 
 - La ruta que contiene el archivo de datos en formato *.csv*.  
 - El código de un cliente (`CustomerId`).
