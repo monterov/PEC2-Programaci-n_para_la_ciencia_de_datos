@@ -24,6 +24,16 @@ Utiliza los principios de **programación funcional** que hemos visto en teoría
 
 Consulto:
 
+[KeyError según doc. oficial](https://docs.python.org/es/3/tutorial/datastructures.html#dictionaries)
+
+En la documentación oficial de Python especifica que el KeyError aparece cuando se intenta acceder a una clave que no existe. 
+
+[Consulto como solucionarlo](https://thedataschools.com/python/diccionarios/setdefault-metodo-diccionario.html)
+
+Según nuestra  consulta, un método efectivo para solucionar el error es usar setdefault (). En el diccionario de claves que
+estamos creando en la función, este método establecerá un valor predeterminado para una clave en caso de que no exista en el diccionario. 
+![Ejemplo método sedefault()](pantallazo_ejercicio_3-b_pec_2.png)
+
 
 
 
