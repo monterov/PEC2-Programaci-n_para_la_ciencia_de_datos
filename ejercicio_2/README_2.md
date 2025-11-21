@@ -67,3 +67,11 @@ Me aparece error de formato, al parecer la columna "Total" no está en formato n
 
 ![error formato columna "Total"](pantallazo_ejercicio_2-h_pec_2.png)
 
+Al estar los datos en formato texto, Phyton no puede hacer operaciones matemáticas. Usamos str.replace (",", " ".") para reemplazar la coma de los decimales por punto y usamos .astype(float) para cambiar a formato numérico y podamos usar la función (sum) en esta columna.
+
+####  "df_botiga["Total"] = df_botiga["Total"].str.replace(",", ".").astype(float)"
+
+
+
+    
+
