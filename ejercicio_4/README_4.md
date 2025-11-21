@@ -16,6 +16,8 @@ Deberían haber salido USB, que empieza por "u" o Teclat, que contiene "te". Cai
 
 ![solución aplicada](pantallazo_ejercicio_4-cc_pec_2.png)
 
-La solución es simnple, me da curiosidad a ver que otras soluciones puede haber para solucionar el problema de mayúsculas y minúsculas en las cadenas de texto.
+La solución es simple, me da curiosidad a ver que otras soluciones puede haber para solucionar el problema de mayúsculas y minúsculas en las cadenas de texto.
 
 Doy con el método lower(): https://j2logo.com/python/convertir-a-mayusculas-y-minusculas-en-python/
+
+Con este método podemos convertir una cadena de de texto en minísculas, podría funcionar en este código pero voy mal de tiempo para probarlo. Sorry.
