@@ -34,9 +34,16 @@ Pruebo la salida con los nombres correctos:
 
 ![Salida con la solución aplicada](pantallazo_ejercicio_5-e_pec_2.png)
 
+### Ejercicio 5.2
 
+Aquí hay que obtener el tamaño de los archivos que hemos creado en el ejercicio anterior al descomprimr el archivo zip. En los apuntes, archivo 3, tenemos la solución usando el submódulo path, usando getsize para obtener el tamaño.
 
 ![solución aplicada](pantallazo_ejercicio_5-f_pec_2.png)
 
+Como getsize () nos da el tamaño en bytes y en el enunciado nos lo pide en MB, hay que convertirlos usando la fórmula: Como `os.path.getsize()` devuelve el tamaño en bytes y el enunciado pide mostrarlo en megabytes, es necesario convertir la unidad usando la siguiente fórmula:
 
-### Ejercicio 5.2
+\[
+\text{MB} = \frac{\text{bytes}}{1024 \times 1024}
+\]
+
+1 MB = 1024 KB y 1 KB = 1024 bytes.
