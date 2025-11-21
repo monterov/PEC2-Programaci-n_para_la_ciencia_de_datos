@@ -34,6 +34,12 @@ Según nuestra  consulta, un método efectivo para solucionar el error es usar s
 estamos creando en la función, este método establecerá un valor predeterminado para una clave en caso de que no exista en el diccionario. 
 ![Ejemplo método sedefault()](pantallazo_ejercicio_3-b_pec_2.png)
 
+#### NOTA
+
+Tenía dudas acerca de la salida en cuanto a las listas, tras consultar en el foro ví que ya se habían resuelto y opto por intentar sacar una salida acorde con la que se espera.
+
+![Salida esperada()](pantallazo_ejercicio_3-c_pec_2.png)
+
 
 
 
