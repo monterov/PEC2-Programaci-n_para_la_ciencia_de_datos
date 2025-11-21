@@ -24,7 +24,7 @@ Al probar la función, apareció este error:
 
 ![Error mostrado durante la ejecución](pantallazo_ejercicio_1_pec_2.png)
 
-La causa era evidente: estaba utilizando `math.gcd` sin haber importado antes el módulo `math`.
+La causa era evidente, que no había importado "math", muy de novatos y de despistes made in monterov.
 
 Añadí la línea `import math` al principio del archivo y el problema quedó resuelto.
 
