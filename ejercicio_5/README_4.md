@@ -11,27 +11,32 @@ Recuerda también mostrar por pantalla el resultado obtenido por esta función.
 
 ### Ejercicio 5.1
 
+Para hacer la función, miro en los notebooks de apuntes, en el archivo 3 aparece un ejemplo de código usando la función del módulo OS: mkdir(), que sirve para crear una carpeta
+
+![Ejemplo apuntes)(pantallazo_ejercicio_5-b_pec_2.png)
+
 #### Primer error
 
-Primer susto, me aparece un error que no encuentra los libros en la carpeta donde se suponían debían estar.
+Primer susto, me aparece un error que no encuentra los libros en la carpeta donde se suponían debían estar. En el enunciado del ejercicio solo pide que tenemos que crear la carpeta, así que lo hago de la forma más sencilla posible. 
+Entiendo que se debería hacer alguna verificación antes, 
 
-![Error en la salida](pantallazo_ejercicio_5-a_pec_2.png)
+![Error en la salida](pantallazo_ejercicio_5-b_pec_2.png)
 
 Bueno, es que los que buscaba no son los que tengo en la carpeta, así que me voy a foro a ver si a alguien le ha pasado esto.
 
-![Archivos en la carpeta Drive](pantallazo_ejercicio_5-b_pec_2.png)
+![Archivos en la carpeta Drive](pantallazo_ejercicio_5-c_pec_2.png)
 
 Pues sí, era una errata del enunciado:
 
-![Errata enunciado](pantallazo_ejercicio_5-c_pec_2.png)
+![Errata enunciado](pantallazo_ejercicio_5-d_pec_2.png)
 
 Pruebo la salida con los nombres correctos:
 
-![Salida con la solución aplicada](pantallazo_ejercicio_5-d_pec_2.png)
+![Salida con la solución aplicada](pantallazo_ejercicio_5-e_pec_2.png)
 
 
 
-![solución aplicada](pantallazo_ejercicio_5-e_pec_2.png)
+![solución aplicada](pantallazo_ejercicio_5-f_pec_2.png)
 
 
 ### Ejercicio 5.2
