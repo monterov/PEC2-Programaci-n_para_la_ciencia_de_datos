@@ -46,3 +46,13 @@ No sabía bien como separar las frases que no llevan un punto al final o un sign
 https://es.stackoverflow.com/questions/227452/corregir-espacios-y-mayusculas
 
 
+Uso básico de open() en Python
+https://es.stackoverflow.com/questions/383169/m%C3%A9todo-open-en-python
+
+Documentación oficial del módulo re (expresiones regulares)
+https://docs.python.org/es/3/library/re.html
+
+Manejo de espacios y sustituciones en cadenas de texto (uso de replace)
+https://es.stackoverflow.com/questions/227452/corregir-espacios-y-mayusculas
+
+
