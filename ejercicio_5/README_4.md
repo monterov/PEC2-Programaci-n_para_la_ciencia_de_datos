@@ -41,8 +41,14 @@ Aquí hay que obtener el tamaño de los archivos que hemos creado en el ejercici
 ![solución aplicada](pantallazo_ejercicio_5-f_pec_2.png)
 
 Como getsize () nos da el tamaño en bytes y en el enunciado nos lo pide en MB, hay que convertirlos usando la fórmula: Como `os.path.getsize()` devuelve el tamaño en bytes y el enunciado pide mostrarlo en megabytes, es necesario convertir la unidad usando la siguiente fórmula:
+Como `os.path.getsize()` devuelve el tamaño en bytes y el enunciado pide mostrarlo en megabytes, es necesario convertir la unidad usando la siguiente fórmula:
+
 $$
 \text{MB} = \frac{\text{bytes}}{1024 \times 1024}
 $$
 
-1 MB = 1024 KB y 1 KB = 1024 bytes.
+Esto se debe a que:
+
+- 1 MB = 1024 KB  
+- 1 KB = 1024 bytes
+
