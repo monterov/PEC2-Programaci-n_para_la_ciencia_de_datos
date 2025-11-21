@@ -21,3 +21,12 @@ La solución es simple, me da curiosidad a ver que otras soluciones puede haber 
 Doy con el método lower(): https://j2logo.com/python/convertir-a-mayusculas-y-minusculas-en-python/
 
 Con este método podemos convertir una cadena de de texto en minísculas, podría funcionar en este código pero voy mal de tiempo para probarlo. Sorry.
+
+
+#### Consultas externas
+
+
+- [Operaciones con cadenas en Python — Documentación oficial](https://docs.python.org/es/3/library/stdtypes.html#string-methods)
+- [Uso de startswith() en Python — StackOverflow](https://stackoverflow.com/questions/17670955/how-to-check-the-start-of-a-string)
+- [Diccionarios en Python — Documentación oficial](https://docs.python.org/es/3/tutorial/datastructures.html#dictionaries)
+
