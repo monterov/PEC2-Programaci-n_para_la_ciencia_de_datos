@@ -6,7 +6,6 @@ He decidido documentar todo mi proceso de trabajo —desde las primeras pruebas 
 ## Contenido del repositorio
 
 - `/src/` – Implementación modular de las funciones pedidas en cada ejercicio.  
-- `/notebook/` – Notebook final entregado en el campus, con todas las soluciones explicadas.  
 - `/referencias/` – Recursos externos consultados para resolver los ejercicios.  
 - `README.md` – Documentación general del proyecto.
 
@@ -15,11 +14,16 @@ He decidido documentar todo mi proceso de trabajo —desde las primeras pruebas 
 Mi objetivo con este repositorio es mostrar:
 - Mi forma de programar de manera progresiva y comentada.
 - Mi capacidad para estructurar un proyecto siguiendo PEP8.
-- Mi proceso de aprendizaje con las funciones avanzadas de Python (closures, map, filter, reduce, lambdas, etc.).
+- Mi proceso de aprendizaje con las funciones avanzadas de Python
+Además de esto, reflejar los errores que me han ido apareciendo y la forma de resolverlos.
 
 ## Ejecución
 
 Puedes ejecutar cualquier ejercicio directamente desde los archivos en `/src/` o desde el notebook.
+
+## Docstrings
+
+Despúes de revisar los tipos de docstring en stackoverflow, tal como se aconsejaba en los apuntes, para esta PEC he decidido usar el formato docstring estilo Google. La razón es que me parece un estilo fácil de leer y suficientemente descriptivo.
 
 ## Autor
 **Miguel Ángel Montero Valero**  
