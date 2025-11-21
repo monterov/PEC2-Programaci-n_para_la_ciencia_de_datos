@@ -58,3 +58,9 @@ def create_dictionary(ruta_csv, customer_id):
             ]
 
     return diccionario_de_paises
+    
+# Probamos la función
+
+ruta = "/content/drive/MyDrive/Colab Notebooks/Activity_2/data/botiga_en_linia.csv"
+create_dictionary(ruta, "C5780")
+
