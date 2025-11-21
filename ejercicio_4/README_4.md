@@ -14,7 +14,7 @@ Deberían haber salido USB, que empieza por "u" o Teclat, que contiene "te". Cai
 
 #### Solución
 
-![listado de productos](pantallazo_ejercicio_4-b_pec_2.png)
+![solución aplicada](pantallazo_ejercicio_4-b_pec_2.png)
 
 La solución es simnple, me da curiosidad a ver que otras soluciones puede haber para solucionar el problema de mayúsculas y minúsculas en las cadenas de texto.
 
